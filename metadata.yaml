@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40064
     wikipedia: http://de.wikipedia.org/wiki/Ernst_Georg_Ferdinand_K%C3%BCster
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39529#Geschichte-der-Neueren-Deutschen-Chirurgie
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-04-24'
 gutenberg_type: Text
